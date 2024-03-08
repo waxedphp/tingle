@@ -1,0 +1,20 @@
+{
+    "name": "waxedphp/tingle",
+    "version": "0.2.8",
+    "description": "Advanced views with mustache.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Waxedphp\\Tingle\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waxed"
+        }
+    ],
+    "require": {
+      "waxedphp/waxedphp":"^0.2.6"
+    }
+}
