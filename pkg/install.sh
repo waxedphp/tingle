@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm install tingle.js --save
+npm install tingle.js

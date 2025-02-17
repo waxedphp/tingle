@@ -1,6 +1,6 @@
 
-import tingle from './tingle-master-2020/src/tingle.js';
+import tingle from "tingle.js/src/tingle.js";
 window.tingle = tingle;
+import "tingle.js/src/tingle.css";
 import "./plugin.js";
-import "./tingle-master-2020/dist/tingle.css";
 import "./style.css";

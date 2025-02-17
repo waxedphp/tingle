@@ -1,6 +1,4 @@
 
-//import tingle from './tingle-master-2020/src/tingle.js';
-
 ;(function ( $, window, document, undefined ) {
 
     var pluginName = 'dialog',
