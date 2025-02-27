@@ -9,6 +9,18 @@ https://github.com/robinparisi/tingle
 
 MIT License
 
+---
+
+### PHP:
+
+```
+
+$this->waxed->dialog([
+  'message' => '<h1>Lorem</h1><p>Lorem ipsum dolor sit amet.</p>',
+], 'template');
+
+```
+
 ### HTML:
 
 ```
@@ -21,13 +33,5 @@ MIT License
 </body>
 
 ```
-
-### PHP:
-
-```
-
-$this->waxed->dialog([
-  'message' => '<h1>Lorem</h1><p>Lorem ipsum dolor sit amet.</p>',
-], 'template');
-
-```
+---
+---
